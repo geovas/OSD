@@ -1,4 +1,5 @@
 OSD
 ===
 
-OSD system
+Python based OSD (on screen display) system.
+Link: http://google.com
